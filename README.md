@@ -14,17 +14,7 @@ The **File & Directory Manager** is a collection of Bash scripts designed to aut
 
 ## Directory Structure
 
-file_directory_management_Program/ 
-│── list_files.sh 
-│── backup.sh 
-│── count_files.sh 
-│── disk_usage.sh 
-│── search_file.sh 
-│── compress.sh 
-│── logger.sh 
-│── main.sh 
-│── README.md 
-│── script.log  # Log file (automatically created)
+file_directory_management_Program/ │── list_files.sh │── backup.sh │── count_files.sh │── disk_usage.sh │── search_file.sh │── compress.sh │── logger.sh │── main.sh │── README.md │── script.log # Log file (automatically created)
 
 ## Installation
 
